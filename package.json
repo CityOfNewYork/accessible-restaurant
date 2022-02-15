@@ -44,6 +44,7 @@
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.6",
     "nyc-build-helper": "^0.0.44",
+    "postcss": "^8.4.6",
     "postcss-clean": "^1.2.2",
     "postcss-css-variables": "^0.18.0",
     "postcss-import": "^14.0.2",
